@@ -3,4 +3,4 @@
         
         # Si ce dossier "zinc" est chargé par un client dans le navigateur, 
         # redirigeons le automatiquement vers le dossier "public"
-        RewriteRule ^(.*)$ public/index.php
+        RewriteRule ^(.*)$ public/
